@@ -1,0 +1,30 @@
+# Google Apps Script project files
+.clasp.json
+appsscript.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Configuration files (keep these private)
+config.js
+secrets.json
+
+# Logs
+*.log
+logs/
+
+# Dependencies (if using external libraries)
+node_modules/
+package-lock.json
+
+# IDE settings
+.env
+.env.local
