@@ -1,12 +1,12 @@
 # daily-lead-vendor-automation
-Gmail API - Google Sheets - Google Drive Automation Pipeline |  Processes 260+ vendor reports monthly | 28 hours/month saved
+Gmail API - Google Sheets - Google Drive Automation Pipeline |  Processes 260+ vendor reports monthly | 40 hours/month saved
 
 
 # Daily Vendor Report Automation
 
 **Automated email-to-spreadsheet data pipeline for daily vendor reports**
 
-A production-ready Google Apps Script solution that automatically processes 260+ vendor reports monthly, saving 28+ hours of manual data entry and eliminating data errors through intelligent automation.
+A production-ready Google Apps Script solution that automatically processes 260+ vendor reports monthly, saving 40+ hours of manual data entry and eliminating data errors through intelligent automation.
 
 ## 🎯 Project Overview
 
@@ -23,7 +23,7 @@ This automation system replaces manual CSV processing with a fully automated wor
 
 | Metric | Value |
 |--------|-------|
-| **Time Saved Monthly** | 28 hours (~2 months/year) |
+| **Time Saved Monthly** | 40 hours (~3 months worth of work/year) |
 | **Reports Processed Daily** | 9-17 reports |
 | **Reports Processed Monthly** | 260+ reports |
 | **Vendor Integrations** | 20+ vendors |
